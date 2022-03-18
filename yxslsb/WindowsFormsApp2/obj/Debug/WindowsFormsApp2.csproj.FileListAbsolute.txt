@@ -1,0 +1,10 @@
+D:\desktop\yxslsb\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\desktop\yxslsb\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\desktop\yxslsb\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\desktop\yxslsb\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\desktop\yxslsb\WindowsFormsApp2\bin\Debug\Steganographlsb.exe.config
+D:\desktop\yxslsb\WindowsFormsApp2\bin\Debug\Steganographlsb.exe
+D:\desktop\yxslsb\WindowsFormsApp2\bin\Debug\Steganographlsb.pdb
+D:\desktop\yxslsb\WindowsFormsApp2\obj\Debug\Steganographlsb.Properties.Resources.resources
+D:\desktop\yxslsb\WindowsFormsApp2\obj\Debug\Steganographlsb.exe
+D:\desktop\yxslsb\WindowsFormsApp2\obj\Debug\Steganographlsb.pdb
